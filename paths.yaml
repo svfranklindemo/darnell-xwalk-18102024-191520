@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/darnell/darnell-2024-10-18-15-15-8/:/
+ - /content/darnell/darnell-2024-10-18-15-15-8/metadata.json:/metadata.json
+ - /content/darnell/darnell-2024-10-18-15-15-8/redirects.json:/redirects.json
